@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there👋
 
-<!--
-**Adenikym/Adenikym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- **Adenikym/Adenikym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<!-- 
+Here are some ideas to get you started: -->
+## I am Maryam Mudasiru, a vuejs developer
+- 🔭 I’m currently working on a sass product
+- 🌱 I’m currently learning blockchain
+- 👯 I’m available for vuejs gigs
+- 📫 How to reach me: maryammudasiru@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adenikym)](https://github.com/Adenikym/github-readme-stats)
+
+More of me on
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://hashnode.com/@Adeniky)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/emsinachi?s=09)  
+
+
