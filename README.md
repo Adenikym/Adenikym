@@ -5,7 +5,7 @@
 <!-- 
 Here are some ideas to get you started: -->
 ## I am Maryam Mudasiru, a vuejs developer
-- 🔭 I’m currently working on a sass product
+- 🔭 I’m currently working on a saas product
 - 🌱 I’m currently learning blockchain
 - 👯 I’m available for vuejs gigs
 - 📫 How to reach me: maryammudasiru@gmail.com
