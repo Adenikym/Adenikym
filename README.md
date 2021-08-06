@@ -8,7 +8,6 @@ Here are some ideas to get you started: -->
 - 🔭 I’m currently working on a saas product
 - 🌱 I’m currently learning blockchain
 - 👯 I’m available for vuejs gigs
-- 📫 How to reach me: maryammudasiru@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adenikym)](https://github.com/Adenikym/github-readme-stats)
 
