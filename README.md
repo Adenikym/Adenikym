@@ -5,9 +5,8 @@
 <!-- 
 Here are some ideas to get you started: -->
 ## I am Maryam Mudasiru, a vuejs developer
-- 🔭 I’m currently working on a saas product
-- 🌱 I’m currently learning blockchain
-- 👯 I’m available for vuejs gigs
+- 🌱 I’m currently learning datascience
+- 👯 I’m available for Nuxt gigs
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adenikym)](https://github.com/Adenikym/github-readme-stats)
 
