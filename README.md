@@ -4,9 +4,9 @@
 <!-- **Adenikym/Adenikym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <!-- 
 Here are some ideas to get you started: -->
-## I am Maryam Mudasiru, a vuejs developer
+## I am Maryam Mudasiru, a frontend web developer
 - 🌱 I’m currently learning datascience
-- 👯 I’m available for Nuxt gigs
+- 👯 I’m available for Nuxt and Vuejs gigs
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adenikym)](https://github.com/Adenikym/github-readme-stats)
 
