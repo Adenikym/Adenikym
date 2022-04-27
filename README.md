@@ -7,7 +7,7 @@ Here are some ideas to get you started: -->
 ## I am Maryam Mudasiru, a frontend web developer. 
 - ✨ Budding technical writer
 - 🌱 I’m currently learning data science
-- 👯 I’m available for Nuxt and Vuejs gigs
+- 👯 Vue and Nuxtjs developer
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adenikym)](https://github.com/Adenikym/github-readme-stats)
 
