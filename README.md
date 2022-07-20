@@ -7,6 +7,7 @@ Here are some ideas to get you started: -->
 ## I am Maryam Mudasiru, a frontend web developer. 
 - 👯 Vue and Nuxtjs developer
 - ✨ Technical writer
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adenikym)](https://github.com/Adenikym/github-readme-stats)
 
 More of me on
