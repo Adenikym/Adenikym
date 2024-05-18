@@ -5,7 +5,7 @@
 <!-- 
 Here are some ideas to get you started: -->
 ## I am Maryam Mudasiru, a frontend web developer. 
-- 👯 Vue and Nuxtjs developer
+- 👯 Vue and REACT developer
 - ✨ Technical writer
 
 More of me on
