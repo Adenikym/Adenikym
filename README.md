@@ -4,8 +4,9 @@
 <!-- **Adenikym/Adenikym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <!-- 
 Here are some ideas to get you started: -->
-## I am Maryam Mudasiru, a frontend web developer. 
+## I am Maryam Mudasiru, a frontend and mobile developer. 
 - 👯 Vue and REACT developer
+- Mobile developer: react native
 - ✨ Technical writer
 
 More of me on
